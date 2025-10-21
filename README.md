@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Hani </h1>
-<h3 align="center">AI Engineer | Computer Vision Enthusiast | Based in Lyon, France 🇫🇷</h3>
+<h3 align="center">AI Engineer | Computer Vision Enthusiast | Based in Lyon, France </h3>
 
 ---
 
@@ -77,9 +77,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://github.com/hanibou/hanibou/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake" />
-</p>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hanibou&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+</p> -->
 
----
-<p align="center">⭐️ <i>Engineer by training, explorer by nature.</i></p>
+
+<!-- <p align="center">⭐️ <i>Engineer by training, explorer by nature.</i></p> -->
