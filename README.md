@@ -77,11 +77,9 @@
 
 ---
 
-<!-- <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hanibou&show_icons=true&theme=github_dark" alt="hani-bounoua-stats" />
-</p> -->
-
-![Snake animation](https://github.com/hanibou/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <img src="https://github.com/hanibou/hanibou/blob/output/dist/github-contribution-grid-snake.svg" alt="GitHub Snake" />
+</p>
 
 ---
 <p align="center">⭐️ <i>Engineer by training, explorer by nature.</i></p>
